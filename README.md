@@ -15,6 +15,8 @@ ENGLISH BELOW ---------------------------------
 After 6 years working on a cargo tracking company, I've decided to change me acting area to technology and development. I'm still on a learning phase and I hope that
 I could learn a lot! I've been looking up for online classes and recently, I've subscribed on a development degree.
 
+You can contact me by the following e-mail address: joao.hollanda@outlook.com
+
 
 <!---
 joaohollanda/joaohollanda is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
